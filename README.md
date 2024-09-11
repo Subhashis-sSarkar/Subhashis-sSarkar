@@ -3,7 +3,7 @@
 <img align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashis-ssarkar&label=Profile%20views&color=0e75b6&style=flat" alt="subhashis-ssarkar" /> </p>
 
-- 🌱 I’m currently learning **SQL,Linux,cloud computing**
+- 🌱 I’m currently learning **Dotnet Core MVC ,C# ,Linux,cloud computing with AWS**
 
 - 📫 How to reach me **sarkarsubhashis625@gmail.com**
 
